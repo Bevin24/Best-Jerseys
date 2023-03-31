@@ -1,0 +1,32 @@
+[
+  {
+    "username": "Dessert Lover",
+    "email": "dessertlover@sweetspot.com",
+    "password": "password01"
+  },
+  {
+    "username": "Cupcake Fan",
+    "email": "cupcakefan@sweetspot.com",
+    "password": "password02"
+  },
+  {
+    "username": "Cookie Monster",
+    "email": "cookiemonster@sweetspot.com",
+    "password": "password03"
+  },
+  {
+    "username": "Ice Cream Guru",
+    "email": "icecreamguru@sweetspot.com",
+    "password": "password04"
+  },
+  {
+    "username": "Donut Enthusiast",
+    "email": "donutenthusiast@sweetspot.com",
+    "password": "password05"
+  },
+  {
+    "username": "Choco Lover",
+    "email": "chocolover@sweetspot.com",
+    "password": "password06"
+  }
+]
