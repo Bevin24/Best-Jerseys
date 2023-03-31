@@ -25,7 +25,7 @@ const Footer = () => {
           >
             ❤️
           </span>{' '}
-          by Tru3ly Keii
+          by Tru3ly Keii, Jose Puente
         </h4>
       </div>
     </footer>

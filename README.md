@@ -2,7 +2,7 @@ Final Project
 #The Sweet Spot App
 A platform to register and request weekly treats that bring joy and laughter to your taste buds.
 
-Craeted by Kela Hunte
+Created by Kela Hunte, Jose Puente
 ￼
 ##Table of Contents
 * Introduction
